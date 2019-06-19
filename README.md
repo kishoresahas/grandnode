@@ -91,3 +91,7 @@ GrandNode open source edition is licensed under GrandNode Public License Version
 ## Additional tools ##
 Cross-browser support is tested by ![Browserstack Logo](https://grandnode.com/content/images/uploaded/browserstack-logo-small.png)  
 Install GrandNode with one click on [DigitalOcean](https://marketplace.digitalocean.com/apps/grandnode) ![DigitalOcean_Logo](https://grandnode.com/content/images/uploaded/digitalocean1.png)
+
+##Visual Studio Code in Ubuntu##
+
+https://github.com/mono/mono/issues/12535#issuecomment-486227905

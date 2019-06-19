@@ -165,6 +165,7 @@ namespace Grand.Framework.Infrastructure.Extensions
             services.Configure<RazorViewEngineOptions>(options =>
             {
                 options.ViewLocationExpanders.Add(new ThemeableViewLocationExpander());
+                    options.AllowRecompilingViewsOnFileChange = false;
             });
         }
 
